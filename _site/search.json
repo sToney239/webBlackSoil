@@ -361,7 +361,7 @@
     "href": "datasetClimate.html",
     "title": "气象数据",
     "section": "",
-    "text": "东北黑土区1951-2021年站点逐日气象数据\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n海伦站2009-2018年月度均值气象数据集\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "东北黑土区1951-2021年站点逐日气象数据\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n东北黑土区CMIP6未来气候变化情景数据\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n海伦站2009-2018年月度均值气象数据集\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "dataClimate/data01.html",
@@ -633,6 +633,27 @@
     "objectID": "dataClimate/data02.html#来源信息",
     "href": "dataClimate/data02.html#来源信息",
     "title": "东北黑土区1951-2021年站点逐日气象数据",
+    "section": "来源信息",
+    "text": "来源信息\n来源课题：课题四\n数据负责人：吕达\n邮箱：lvda@igsnrr.ac.cn\n所属单位：中国科学院地理科学与资源研究所"
+  },
+  {
+    "objectID": "dataClimate/data03.html",
+    "href": "dataClimate/data03.html",
+    "title": "东北黑土区CMIP6未来气候变化情景数据",
+    "section": "",
+    "text": "数据名称\n东北黑土区CMIP6未来气候变化情景数据\n\n\n数据格式\n栅格文件 (TIF)\n\n\n时间范围\n2015-2100\n\n\n地理位置\n东北地区\n\n\n字段名称\n日最高气温、日最低气温、降水\n\n\n测点/样本数量\n-\n\n\n数据行数\n-\n\n\n数据大小\n3.00 GB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+  },
+  {
+    "objectID": "dataClimate/data03.html#数据集摘要",
+    "href": "dataClimate/data03.html#数据集摘要",
+    "title": "东北黑土区CMIP6未来气候变化情景数据",
+    "section": "数据集摘要",
+    "text": "数据集摘要\n东北黑土区CMIP6未来气候变化情景数据，包括GFDL-ESM4、IPSL-CM6A-LR、MPI-ESM1-2-HR、MRI-ESM2-0、UKESM1-0-LL共5个气候模型，ssp126、ssp370、ssp585共3个社会经济发展模式。\n文件命名格式形如gfdl-esm4_r1i1p1f1_w5e5_ssp126_tasmax_global_daily_2015_2020.tif，其中gfdl-esm4为小写模型名称，ssp126为社会经济发展排放模式，2015_2020为数据时间范围"
+  },
+  {
+    "objectID": "dataClimate/data03.html#来源信息",
+    "href": "dataClimate/data03.html#来源信息",
+    "title": "东北黑土区CMIP6未来气候变化情景数据",
     "section": "来源信息",
     "text": "来源信息\n来源课题：课题四\n数据负责人：吕达\n邮箱：lvda@igsnrr.ac.cn\n所属单位：中国科学院地理科学与资源研究所"
   }
