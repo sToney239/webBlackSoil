@@ -1,0 +1,44 @@
+[
+  {
+    "listing": "/datasetSoilProfile.html",
+    "items": [
+      "/dataSoilProfile/data1.html",
+      "/dataSoilProfile/data2.html",
+      "/dataSoilProfile/data4.html",
+      "/dataSoilProfile/data5.html",
+      "/dataSoilProfile/data3.html"
+    ]
+  },
+  {
+    "listing": "/datasetSoilPhyChem.html",
+    "items": [
+      "/dataSoilPhyChem/data02.html",
+      "/dataSoilPhyChem/data04.html",
+      "/dataSoilPhyChem/data03.html",
+      "/dataSoilPhyChem/data06.html",
+      "/dataSoilPhyChem/data01.html",
+      "/dataSoilPhyChem/data05.html"
+    ]
+  },
+  {
+    "listing": "/datasetFarmMng.html",
+    "items": [
+      "/dataFarmMng/data01.html",
+      "/dataFarmMng/data02.html"
+    ]
+  },
+  {
+    "listing": "/datasetSoilBio.html",
+    "items": [
+      "/dataSoilBio/data01.html",
+      "/dataSoilBio/data02.html"
+    ]
+  },
+  {
+    "listing": "/datasetClimate.html",
+    "items": [
+      "/dataClimate/data02.html",
+      "/dataClimate/data01.html"
+    ]
+  }
+]
