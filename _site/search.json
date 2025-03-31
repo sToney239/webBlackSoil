@@ -137,7 +137,7 @@
     "href": "dataSoilPhyChem/data05.html",
     "title": "海伦站2004-2015年长期监测土壤养分数据集",
     "section": "",
-    "text": "数据名称\n海伦站2004-2015年长期监测土壤养分数据集\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2004-2015\n\n\n地理位置\n海伦站\n\n\n字段名称\n年月日、样地代码、样地名称、采样分区编号、采样分区描述(微地形)、土壤类型、母质、作物、采样深度(cm)、样品号、有机质(g/kg)、全氮(N g/kg)、全磷(P g/kg)、全钾(K g/kg)、碱解氮(N mg/kg)、有效磷(P mg/kg)、速效钾(K mg/kg)、缓效钾(K mg/kg)等\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n546行\n\n\n数据大小\n209 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n海伦站2004-2015年长期监测土壤养分数据集\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2004-2015\n\n\n地理位置\n海伦站\n\n\n字段名称\n年月日、样地代码、样地名称、采样分区编号、采样分区描述(微地形)、土壤类型、母质、作物、采样深度(cm)、样品号、有机质(g/kg)、全氮(N g/kg)、全磷(P g/kg)、全钾(K g/kg)、碱解氮(N mg/kg)、有效磷(P mg/kg)、速效钾(K mg/kg)、缓效钾(K mg/kg)等\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n546行\n\n\n数据大小\n209 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilPhyChem/data05.html#数据集摘要",
@@ -158,7 +158,7 @@
     "href": "dataSoilPhyChem/data03.html",
     "title": "东北黑土区氮磷钾数据",
     "section": "",
-    "text": "数据名称\n东北黑土区氮磷钾数据\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\nid、经度、yy、钾K2O(％)、磷P(μg/g)、氮N(％)、县名、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n14123行\n\n\n数据大小\n2.2 MB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n东北黑土区氮磷钾数据\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\nid、经度、yy、钾K2O(％)、磷P(μg/g)、氮N(％)、县名、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n14123行\n\n\n数据大小\n2.2 MB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilPhyChem/data03.html#数据集摘要",
@@ -179,7 +179,7 @@
     "href": "dataSoilPhyChem/data01.html",
     "title": "海伦市2002年黑土养分数据",
     "section": "",
-    "text": "数据名称\n海伦市2002年黑土养分数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2002\n\n\n地理位置\n黑龙江海伦市\n\n\n字段名称\n土质、纬度、经度、全磷(g/kg)、全钾(g/kg)、碱解氮(mg/kg)、速效钾(mg/kg)、有效磷(mg/kg)、全氮(g/kg)、有机碳(g/kg) 、全硫S%、碳氮比C/N\n\n\n测点/样本数量\n65\n\n\n数据行数\n65行\n\n\n数据大小\n26.8 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n海伦市2002年黑土养分数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2002\n\n\n地理位置\n黑龙江海伦市\n\n\n字段名称\n土质、纬度、经度、全磷(g/kg)、全钾(g/kg)、碱解氮(mg/kg)、速效钾(mg/kg)、有效磷(mg/kg)、全氮(g/kg)、有机碳(g/kg) 、全硫S%、碳氮比C/N\n\n\n测点/样本数量\n65\n\n\n数据行数\n65行\n\n\n数据大小\n26.8 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilPhyChem/data01.html#数据集摘要",
@@ -200,7 +200,7 @@
     "href": "dataSoilPhyChem/data02.html",
     "title": "东北黑土区pH数据",
     "section": "",
-    "text": "数据名称\n东北黑土区pH数据\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n点号、经度、纬度、PH值、县名、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n19031行\n\n\n数据大小\n2.4 MB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n东北黑土区pH数据\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n点号、经度、纬度、PH值、县名、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n19031行\n\n\n数据大小\n2.4 MB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilPhyChem/data02.html#数据集摘要",
@@ -221,7 +221,7 @@
     "href": "dataSoilPhyChem/data04.html",
     "title": "东北黑土区有机碳数据",
     "section": "",
-    "text": "数据名称\n东北黑土区有机碳数据\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n点号、经度、纬度、有机碳(g/kg)、县名、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n29833行\n\n\n数据大小\n3.6 MB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n东北黑土区有机碳数据\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n点号、经度、纬度、有机碳(g/kg)、县名、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n29833行\n\n\n数据大小\n3.6 MB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilPhyChem/data04.html#数据集摘要",
@@ -249,7 +249,7 @@
     "href": "dataSoilPhyChem/data06.html",
     "title": "东北黑土区耕地环境质量要素清单数据",
     "section": "",
-    "text": "数据名称\n东北黑土区耕地环境质量要素清单数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n-\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n-\n\n\n测点/样本数量\n24865\n\n\n数据行数\n-\n\n\n数据大小\n15.3 MB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n东北黑土区耕地环境质量要素清单数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n-\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n-\n\n\n测点/样本数量\n24865\n\n\n数据行数\n-\n\n\n数据大小\n15.3 MB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilPhyChem/data06.html#数据集摘要",
@@ -270,7 +270,7 @@
     "href": "dataSoilBio/data01.html",
     "title": "东北黑土区2021-2023年生物多样性及土壤属性数据",
     "section": "",
-    "text": "数据名称\n东北黑土区2021-2023年生物多样性及土壤属性数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2001-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n编号、土壤类型、作物、经纬度、pH、EC(μs/cm)、SOC (g/kg)、TN (g/kg)、C/N ratio、MBC (mg/kg dry soil)等\n\n\n测点/样本数量\n495\n\n\n数据行数\n495行\n\n\n数据大小\n182.2 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n东北黑土区2021-2023年生物多样性及土壤属性数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2001-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n编号、土壤类型、作物、经纬度、pH、EC(μs/cm)、SOC (g/kg)、TN (g/kg)、C/N ratio、MBC (mg/kg dry soil)等\n\n\n测点/样本数量\n495\n\n\n数据行数\n495行\n\n\n数据大小\n182.2 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilBio/data01.html#数据集摘要",
@@ -291,7 +291,7 @@
     "href": "dataFarmMng/data02.html",
     "title": "吉林大安、长春2021年土壤类型与田间管理数据",
     "section": "",
-    "text": "数据名称\n吉林大安、长春2021年土壤类型与田间管理数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2021\n\n\n地理位置\n吉林大安、长春\n\n\n字段名称\n日期、天气、土壤类型、经纬度、海拔、坡度、当季作物/植被、施肥情况、产量、病害情况、开垦年代等\n\n\n测点/样本数量\n大安111，长春99\n\n\n数据行数\n2个样点各200余行\n\n\n数据大小\n98.6 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n吉林大安、长春2021年土壤类型与田间管理数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2021\n\n\n地理位置\n吉林大安、长春\n\n\n字段名称\n日期、天气、土壤类型、经纬度、海拔、坡度、当季作物/植被、施肥情况、产量、病害情况、开垦年代等\n\n\n测点/样本数量\n大安111，长春99\n\n\n数据行数\n2个样点各200余行\n\n\n数据大小\n98.6 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataFarmMng/data02.html#数据集摘要",
@@ -312,7 +312,7 @@
     "href": "dataFarmMng/data01.html",
     "title": "东北县域施肥量及产量数据",
     "section": "",
-    "text": "数据名称\n东北县域施肥量及产量数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2020-2022\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n省、市、县、化肥施用量、氮肥、磷肥、钾肥、复合肥、水稻产量、小麦产量、玉米产量、大豆产量\n\n\n测点/样本数量\n-\n\n\n数据行数\n200行左右/年\n\n\n数据大小\n56.5 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n东北县域施肥量及产量数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2020-2022\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n省、市、县、化肥施用量、氮肥、磷肥、钾肥、复合肥、水稻产量、小麦产量、玉米产量、大豆产量\n\n\n测点/样本数量\n-\n\n\n数据行数\n200行左右/年\n\n\n数据大小\n56.5 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataFarmMng/data01.html#数据集摘要",
@@ -340,7 +340,7 @@
     "href": "dataSoilBio/data02.html",
     "title": "海伦站PLFA磷脂脂肪酸分析",
     "section": "",
-    "text": "数据名称\n海伦站PLFA磷脂脂肪酸分析\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n-\n\n\n地理位置\n海伦站\n\n\n字段名称\n(每克土中) 微生物量标志物、真菌生物标志物、细菌生物标志物、革兰氏阳性菌标志物、革兰氏阴性菌标志物、磷脂脂肪酸总量\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n6行\n\n\n数据大小\n19 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n海伦站PLFA磷脂脂肪酸分析\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n-\n\n\n地理位置\n海伦站\n\n\n字段名称\n(每克土中) 微生物量标志物、真菌生物标志物、细菌生物标志物、革兰氏阳性菌标志物、革兰氏阴性菌标志物、磷脂脂肪酸总量\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n6行\n\n\n数据大小\n19 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilBio/data02.html#数据集摘要",
@@ -368,7 +368,7 @@
     "href": "dataClimate/data01.html",
     "title": "海伦站2009-2018年月度均值气象数据集",
     "section": "",
-    "text": "数据名称\n海伦站2009-2018年月度均值气象数据集\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2009-2018\n\n\n地理位置\n海伦站\n\n\n字段名称\n气温、露点温度、相对湿度、降水、气压、风速、5 - 100 cm 土壤温度月平均、太阳辐射\n\n\n测点/样本数量\n-\n\n\n数据行数\n-\n\n\n数据大小\n117.4 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n海伦站2009-2018年月度均值气象数据集\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2009-2018\n\n\n地理位置\n海伦站\n\n\n字段名称\n气温、露点温度、相对湿度、降水、气压、风速、5 - 100 cm 土壤温度月平均、太阳辐射\n\n\n测点/样本数量\n-\n\n\n数据行数\n-\n\n\n数据大小\n117.4 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataClimate/data01.html#数据集摘要",
@@ -396,7 +396,7 @@
     "href": "dataSoilProfile/data4.html",
     "title": "2022-2023年东北土壤容重数据集",
     "section": "",
-    "text": "数据名称\n2022-2023年东北土壤容重数据集\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n点号、经度、纬度、0-0.2m容重、县名、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n15754行\n\n\n数据大小\n2.0 MB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n2022-2023年东北土壤容重数据集\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n点号、经度、纬度、0-0.2m容重、县名、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n15754行\n\n\n数据大小\n2.0 MB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilProfile/data4.html#数据集摘要",
@@ -417,7 +417,7 @@
     "href": "dataSoilProfile/data2.html",
     "title": "2010年东北黑土层厚度数据集",
     "section": "",
-    "text": "数据名称\n2010年东北黑土层厚度数据集\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2010\n\n\n地理位置\n海伦站\n\n\n字段名称\n土系、黑土层厚度、纬度、经度、海拔\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n445行\n\n\n数据大小\n82 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n2010年东北黑土层厚度数据集\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2010\n\n\n地理位置\n海伦站\n\n\n字段名称\n土系、黑土层厚度、纬度、经度、海拔\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n445行\n\n\n数据大小\n82 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilProfile/data2.html#数据集摘要",
@@ -501,7 +501,7 @@
     "href": "dataSoilProfile/data1.html",
     "title": "1980、2021年海伦黑土层厚度数据",
     "section": "",
-    "text": "数据名称\n1980、2021年海伦黑土层厚度数据\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n1980s、2020s\n\n\n地理位置\n海伦站\n\n\n字段名称\n剖面编号、经度、纬度、海拔、1980s黑土层厚度、2021黑土层厚度\n\n\n测点/样本数量\n23\n\n\n数据行数\n23行\n\n\n数据大小\n28 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n1980、2021年海伦黑土层厚度数据\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n1980s、2020s\n\n\n地理位置\n海伦站\n\n\n字段名称\n剖面编号、经度、纬度、海拔、1980s黑土层厚度、2021黑土层厚度\n\n\n测点/样本数量\n23\n\n\n数据行数\n23行\n\n\n数据大小\n28 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilProfile/data1.html#数据集摘要",
@@ -522,7 +522,7 @@
     "href": "dataSoilProfile/data3.html",
     "title": "海伦市2021年23个剖面数据",
     "section": "",
-    "text": "数据名称\n海伦市2021年23个剖面数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2021\n\n\n地理位置\n海伦市\n\n\n字段名称\n发生层编号、土壤类型、经度、纬度、海拔、容重(g/cm3)、pH、质地、有机质(g/kg)、全氮(g/kg)、全磷/(g/kg)、全钾(g/kg)、碳酸钙相当物(g/kg)\n\n\n测点/样本数量\n109\n\n\n数据行数\n109行\n\n\n数据大小\n21 KB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n海伦市2021年23个剖面数据\n\n\n数据格式\n表格文件 (xlsx)\n\n\n时间范围\n2021\n\n\n地理位置\n海伦市\n\n\n字段名称\n发生层编号、土壤类型、经度、纬度、海拔、容重(g/cm3)、pH、质地、有机质(g/kg)、全氮(g/kg)、全磷/(g/kg)、全钾(g/kg)、碳酸钙相当物(g/kg)\n\n\n测点/样本数量\n109\n\n\n数据行数\n109行\n\n\n数据大小\n21 KB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilProfile/data3.html#数据集摘要",
@@ -543,7 +543,7 @@
     "href": "dataSoilProfile/data5.html",
     "title": "2022-2023年东北土层厚度数据集",
     "section": "",
-    "text": "数据名称\n2022-2023年东北土层厚度数据集\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n点号、经度、纬度、黑土层厚度(cm)、县域、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n18241行\n\n\n数据大小\n2.2 MB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n2022-2023年东北土层厚度数据集\n\n\n数据格式\n表格文件 (xls)\n\n\n时间范围\n2022-2023\n\n\n地理位置\n东北黑土区\n\n\n字段名称\n点号、经度、纬度、黑土层厚度(cm)、县域、年份\n\n\n测点/样本数量\n未标注\n\n\n数据行数\n18241行\n\n\n数据大小\n2.2 MB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataSoilProfile/data5.html#数据集摘要",
@@ -620,7 +620,7 @@
     "href": "dataClimate/data02.html",
     "title": "东北黑土区1951-2021年站点逐日气象数据",
     "section": "",
-    "text": "数据名称\n东北黑土区1951-2021年站点逐日气象数据\n\n\n数据格式\n文本表格文件 (TXT)\n\n\n时间范围\n2009-2018\n\n\n地理位置\n东北地区\n\n\n字段名称\n气温、相对湿度、降水、蒸发、风速、日照、0cm地温\n\n\n测点/样本数量\n-\n\n\n数据行数\n-\n\n\n数据大小\n1.60 GB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n东北黑土区1951-2021年站点逐日气象数据\n\n\n数据格式\n文本表格文件 (TXT)\n\n\n时间范围\n2009-2018\n\n\n地理位置\n东北地区\n\n\n字段名称\n气温、相对湿度、降水、蒸发、风速、日照、0cm地温\n\n\n测点/样本数量\n-\n\n\n数据行数\n-\n\n\n数据大小\n1.60 GB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataClimate/data02.html#数据集摘要",
@@ -641,7 +641,7 @@
     "href": "dataClimate/data03.html",
     "title": "东北黑土区CMIP6未来气候变化情景数据",
     "section": "",
-    "text": "数据名称\n东北黑土区CMIP6未来气候变化情景数据\n\n\n数据格式\n栅格文件 (TIF)\n\n\n时间范围\n2015-2100\n\n\n地理位置\n东北地区\n\n\n字段名称\n日最高气温、日最低气温、降水\n\n\n测点/样本数量\n-\n\n\n数据行数\n-\n\n\n数据大小\n3.00 GB\n\n\n共享方式\n开放获取\n\n\n\n数据预览"
+    "text": "数据名称\n东北黑土区CMIP6未来气候变化情景数据\n\n\n数据格式\n栅格文件 (TIF)\n\n\n时间范围\n2015-2100\n\n\n地理位置\n东北地区\n\n\n字段名称\n日最高气温、日最低气温、降水\n\n\n测点/样本数量\n-\n\n\n数据行数\n-\n\n\n数据大小\n3.00 GB\n\n\n共享方式\n请联系数据管理负责人(课题四 吕老师, lvda@igsnrr.ac.cn)获取数据权限\n\n\n\n数据预览"
   },
   {
     "objectID": "dataClimate/data03.html#数据集摘要",
