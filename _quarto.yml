@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "数据共享平台"
+  navbar:
+    left:
+      - text: 团队简介
+        menu:
+         - href: about.qmd
+           text: 课题负责人
+         #- href: publication.qmd
+         #  text: 成果发表
+      - text: 数据共享
+        menu:
+         - href: datasetSoilPhyChem.qmd
+           text: 土壤理化性质数据
+         - href: datasetSoilProfile.qmd
+           text: 土壤剖面结构数据
+         - href: datasetSoilBio.qmd
+           text: 土壤生物数据
+         - href: datasetFarmMng.qmd
+           text: 农田管理数据
+         - href: datasetClimate.qmd
+           text: 气象数据
+      - href: contact.qmd
+        text: 联系方式
+    background: "#1E1E1E" #"#32485B"
+    foreground: "#f1f1f1"
+  page-footer: 
+    center:
+     - text: "东北黑土区科研数据共享平台 | 黑土区耕地生态安全调查评价与定向调控技术<br>技术支持：刘玉洁研究员 团队 | 联系方式：liuyujie@igsnrr.ac.cn"
+    background: "#1E1E1E" #"#32485B"
+    foreground: "#f1f1f1"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

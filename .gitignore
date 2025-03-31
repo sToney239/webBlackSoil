@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/
+dataSoilProfile/data/
+dataClimate/data/
+dataFarming/data/
+dataSoilBio/data/
+dataSoilPhyChem/data/
+plotData/
