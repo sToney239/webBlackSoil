@@ -648,7 +648,7 @@
     "href": "dataClimate/data03.html#数据集摘要",
     "title": "东北黑土区CMIP6未来气候变化情景数据",
     "section": "数据集摘要",
-    "text": "数据集摘要\n东北黑土区CMIP6未来气候变化情景数据，包括GFDL-ESM4、IPSL-CM6A-LR、MPI-ESM1-2-HR、MRI-ESM2-0、UKESM1-0-LL共5个气候模型，ssp126、ssp370、ssp585共3个社会经济发展模式。\n文件命名格式形如gfdl-esm4_r1i1p1f1_w5e5_ssp126_tasmax_global_daily_2015_2020.tif，其中gfdl-esm4为小写模型名称，ssp126为社会经济发展排放模式，2015_2020为数据时间范围"
+    "text": "数据集摘要\n东北黑土区CMIP6未来气候变化情景数据，包括GFDL-ESM4、IPSL-CM6A-LR、MPI-ESM1-2-HR、MRI-ESM2-0、UKESM1-0-LL共5个气候模型，ssp126、ssp370、ssp585共3个社会经济发展模式，气象指标包括日最高气温(tasmax)、日最低气温(tasmin)、降水量(pr)、风速(sfcwind)、太阳辐射(rsds)等。\n文件命名格式形如gfdl-esm4_r1i1p1f1_w5e5_ssp126_tasmax_global_daily_2015_2020.tif，其中gfdl-esm4为小写模型名称，ssp126为社会经济发展排放模式，2015_2020为数据时间范围，tasmax为指标名称\n具体信息参考ISMIP"
   },
   {
     "objectID": "dataClimate/data03.html#来源信息",
